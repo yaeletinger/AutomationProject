@@ -1,0 +1,39 @@
+<myTable>
+  <row>
+    <cell>Company</cell>
+    <cell>Contact</cell>
+    <cell>Country</cell>
+  </row>
+  <row>
+    <cell>Alfreds Futterkiste</cell>
+    <cell>Maria Anders</cell>
+    <cell>Germany</cell>
+  </row>
+  <row>
+    <cell>Centro comercial Moctezuma</cell>
+    <cell>Francisco Chang</cell>
+    <cell>Mexico</cell>
+  </row>
+  <row>
+    <cell>Ernst Handel</cell>
+    <cell>Roland Mendel</cell>
+    <cell>Austria</cell>
+  </row>
+  <row>
+    <cell>Island Trading</cell>
+    <cell>Helen Bennett</cell>
+    <cell>UK</cell>
+  </row>
+  <row>
+    <cell>Laughing Bacchus Winecellars</cell>
+    <cell>Yoshi Tannamuri</cell>
+    <cell>Canada</cell>
+  </row>
+  <row>
+    <cell>Magazzini Alimentari Riuniti</cell>
+    <cell>Giovanni Rovelli</cell>
+    <cell>Italy</cell>
+  </row>
+  
+</myTable>
+
